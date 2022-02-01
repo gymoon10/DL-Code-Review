@@ -1,1 +1,1 @@
-https://github.com/YutaroOgawa/pytorch_advanced/issues/196
+Issue : https://github.com/YutaroOgawa/pytorch_advanced/issues/196
