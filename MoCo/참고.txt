@@ -1,0 +1,5 @@
+참고
+
+MoCoV1_train & inference : https://github.com/dddzg/MoCo
+
+MoCoV2 : https://github.com/smartdanny/MoCoV2_CIFAR10
