@@ -1,6 +1,6 @@
 # Computer-Vision
 
-Code implementation of computer vision algorithm
+Code implementation of computer vision algorithm & networks
 
 Computer Vision 네트워크 코드 구현
 
