@@ -1,6 +1,6 @@
 # Computer-Vision
 
-Code implementation of deep-learning algorithm & networks
+Code explanation & implementation of deep-learning algorithm & networks
 
 
 practice-with-code 레포지토리에서 분리시킴 (https://github.com/gymoon10/Practice-with-code)
